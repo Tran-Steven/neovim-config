@@ -9,5 +9,7 @@ return {
 	config = function()
 		vim.keymap.set("n", "<leader>o", ":Neotree filesystem reveal left<CR>", {})
 		vim.keymap.set("n", "<leader>p", "<C-w>l", { noremap = true, silent = true })
+    --vim.keymap.set('n', '<leader>p', ':bnext<CR>', { noremap = true, silent = true })
+
 	end,
 }

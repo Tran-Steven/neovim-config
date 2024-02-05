@@ -16,14 +16,14 @@ Plugin List Last Updated: 2024 Jan 3
 
 ## Useful Keymaps
 * <leader> is set to the space bar
-* <leader>gf -> Use formatter
-* <leader>fg -> Use livegrep
-* <leader>a -> Select all
-* <leader>o -> Switch to Neotree filesystem on the left
-* <leader>p -> Switch to right buffer
-* <leader>gd -> Dispaly code definition
-* <leader>gr -> Display code references
-* <leader>ca -> Display code actions
+* <leader> gf -> Use formatter
+* <leader> fg -> Use livegrep
+* <leader> a -> Select all
+* <leader> o -> Switch to Neotree filesystem on the left
+* <leader> p -> Switch to right buffer
+* <leader> gd -> Display code definition
+* <leader> gr -> Display code references
+* <leader> ca -> Display code actions
 * ctrl + p -> Find files
 * ctrl + \ -> Open terminal
   

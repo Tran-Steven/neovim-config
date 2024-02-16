@@ -26,4 +26,9 @@ Plugin List Last Updated: 2024 Jan 3
 * < leader > ca -> Display code actions
 * ctrl + p -> Find files
 * ctrl + \ -> Open terminal
-  
+
+### neo-tree specific: 
+
+press ```s``` to open file in vertical split
+
+press ```S``` to open file in Horzizontal split

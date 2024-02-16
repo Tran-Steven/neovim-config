@@ -16,7 +16,7 @@ Plugin List Last Updated: 2024 Jan 3
 
 ## Useful Keymaps
 * < leader > is set to the space bar
-* < leader >gf -> Use formatter
+* < leader > gf -> Use formatter
 * < leader > fg -> Use livegrep
 * < leader > a -> Select all
 * < leader > o -> Switch to Neotree filesystem on the left

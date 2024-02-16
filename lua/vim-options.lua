@@ -16,3 +16,10 @@ vim.api.nvim_create_autocmd("BufRead", { -- Changed from BufReadPre
     end
   end,
 })
+
+vim.cmd([[
+    augroup AutoFormatOnSave
+        autocmd!
+        autocmd BufWritePre * lua vim.lsp.buf.formatting_sync(nil, 1000)
+    augroup END
+]])

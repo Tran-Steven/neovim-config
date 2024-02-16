@@ -27,8 +27,8 @@ Plugin List Last Updated: 2024 Jan 3
 * ctrl + p -> Find files
 * ctrl + \ -> Open terminal
 
-### neo-tree specific: 
+### Neo-tree Reminder
 
-press ```s``` to open file in vertical split
+* Press ```s``` to open file in Vertical Split
 
-press ```S``` to open file in Horzizontal split
+* Press ```S``` to open file in Horizontal Split

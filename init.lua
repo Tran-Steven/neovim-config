@@ -18,6 +18,7 @@ vim.g.mapleader = " "
 
 -- auto numbering
 vim.cmd('set number')
+vim.o.clipboard = "unnamed"
 
 require("lazy").setup("plugins")
 require("vim-options")

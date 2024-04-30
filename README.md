@@ -1,6 +1,6 @@
 # Neovim Config
 
-Last Updated: 2024 Apr 28
+Last Updated: 2024 Apr 30
 
 ## Current Plugins
 * Treesitter
@@ -9,7 +9,7 @@ Last Updated: 2024 Apr 28
 * telescope
 * toggleterminal
 * nvim-java (doesn't really work as intended)
-* catppuccin
+* everforest (changed from catppuccin)
 * mason
 * various LSPs, Linters, Formatters
 * none-ls

@@ -27,7 +27,7 @@ Last Updated: 2024 Apr 30
 * < leader > ca -> Display code actions
 * ctrl + p -> Find files
 * ctrl + \ -> Open terminal
-
+* ctrl + w + v -> split screen
 ### Neo-tree Reminder
 
 * Press ```s``` to open file in Vertical Split

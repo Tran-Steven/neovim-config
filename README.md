@@ -16,6 +16,7 @@ Last Updated: 2024 Nov 16
 - none-ls
 - git-conflict
 - CopilotChat
+- auto-save
 
 ## Useful Keymaps
 

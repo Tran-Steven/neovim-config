@@ -1,6 +1,6 @@
 # Neovim Config
 
-Last Updated: 2024 Apr 30
+Last Updated: 2024 Nov 16
 
 ## Current Plugins
 * Treesitter
@@ -13,6 +13,7 @@ Last Updated: 2024 Apr 30
 * mason
 * various LSPs, Linters, Formatters
 * none-ls
+* git-conflict
 
 
 ## Useful Keymaps

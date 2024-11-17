@@ -16,6 +16,7 @@ local opts = {}
 vim.keymap.set("n", " ", "<Nop>", { silent = true, remap = false })
 vim.g.mapleader = " "
 
+vim.api.nvim_set_keymap('n', '<leader>k', ':CopilotChat ', { noremap = true, silent = false })
 -- auto numbering
 vim.cmd('set number')
 vim.o.clipboard = "unnamed"

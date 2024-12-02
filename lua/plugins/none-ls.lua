@@ -13,6 +13,7 @@ return {
 				null_ls.builtins.diagnostics.rubocop,
 				null_ls.builtins.formatting.rubocop,
 				null_ls.builtins.formatting.google_java_format,
+				require("none-ls.diagnostics.eslint_d"),
 			},
 		})
 		vim.keymap.set("n", "<leader>gf", vim.lsp.buf.format, {})
